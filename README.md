@@ -10,4 +10,4 @@ There are 2 flows :
 
 In case a new user tries to login using their phone number the entry will be prohibited and his created account will get deleted. Once he creates his account from the create account portal then only he can be allowed to login later.
 
-WARNING: Written in a very crude fashion just to get the idea, pls don't judge.
+WARNING: Written in a very crude manner just to get the idea, pls don't judge.
